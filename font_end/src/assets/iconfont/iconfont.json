@@ -1,0 +1,156 @@
+{
+  "id": "3078499",
+  "name": "mfsu",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "129020",
+      "name": "instagram",
+      "font_class": "instagram",
+      "unicode": "e7d5",
+      "unicode_decimal": 59349
+    },
+    {
+      "icon_id": "732727",
+      "name": "帮助",
+      "font_class": "bangzhu",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "1277015",
+      "name": "facebook_facebook11",
+      "font_class": "facebookfacebook11",
+      "unicode": "e735",
+      "unicode_decimal": 59189
+    },
+    {
+      "icon_id": "1319970",
+      "name": "人",
+      "font_class": "ren",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "2288274",
+      "name": "博客",
+      "font_class": "boke",
+      "unicode": "e63e",
+      "unicode_decimal": 58942
+    },
+    {
+      "icon_id": "2924274",
+      "name": "隐私",
+      "font_class": "yinsi",
+      "unicode": "e69b",
+      "unicode_decimal": 59035
+    },
+    {
+      "icon_id": "3176653",
+      "name": "Instagram",
+      "font_class": "Instagram",
+      "unicode": "ea10",
+      "unicode_decimal": 59920
+    },
+    {
+      "icon_id": "3848415",
+      "name": "博客",
+      "font_class": "boke1",
+      "unicode": "e6ab",
+      "unicode_decimal": 59051
+    },
+    {
+      "icon_id": "7193696",
+      "name": "帮助",
+      "font_class": "bangzhu1",
+      "unicode": "e733",
+      "unicode_decimal": 59187
+    },
+    {
+      "icon_id": "7239513",
+      "name": "instagram",
+      "font_class": "instagram1",
+      "unicode": "e6fc",
+      "unicode_decimal": 59132
+    },
+    {
+      "icon_id": "7321368",
+      "name": "博客",
+      "font_class": "boke2",
+      "unicode": "e986",
+      "unicode_decimal": 59782
+    },
+    {
+      "icon_id": "7617119",
+      "name": "github",
+      "font_class": "github",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "7714235",
+      "name": "分享",
+      "font_class": "fenxiang",
+      "unicode": "e6c3",
+      "unicode_decimal": 59075
+    },
+    {
+      "icon_id": "8314265",
+      "name": "推特",
+      "font_class": "tuite",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "8949026",
+      "name": "人员",
+      "font_class": "renyuan",
+      "unicode": "e65e",
+      "unicode_decimal": 58974
+    },
+    {
+      "icon_id": "9626988",
+      "name": "注意",
+      "font_class": "zhuyi",
+      "unicode": "e88d",
+      "unicode_decimal": 59533
+    },
+    {
+      "icon_id": "11359862",
+      "name": "40show_隐私政策_fill",
+      "font_class": "show_yinsizhengce_fill",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "26821043",
+      "name": "instagram",
+      "font_class": "instagram-copy",
+      "unicode": "ea11",
+      "unicode_decimal": 59921
+    },
+    {
+      "icon_id": "26821045",
+      "name": "facebook_facebook11",
+      "font_class": "facebookfacebook11-copy",
+      "unicode": "ea12",
+      "unicode_decimal": 59922
+    },
+    {
+      "icon_id": "26821049",
+      "name": "博客",
+      "font_class": "boke-copy",
+      "unicode": "ea13",
+      "unicode_decimal": 59923
+    },
+    {
+      "icon_id": "26821052",
+      "name": "分享",
+      "font_class": "fenxiang-copy",
+      "unicode": "ea14",
+      "unicode_decimal": 59924
+    }
+  ]
+}
